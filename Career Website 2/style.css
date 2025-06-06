@@ -37,10 +37,17 @@ body{
     Calibri, 'Trebuchet MS', sans-serif;
     padding-top: 20px;
 }
+h2{
+    text-align: center;
+}
+.mpimg{
+    align-self: left;
+}
 main{
     padding: 20px;
     margin: 30px;
 }
 footer{
+    text-align: center;
     color: #30b5e9;
 }
